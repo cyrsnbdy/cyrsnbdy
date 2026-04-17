@@ -22,28 +22,32 @@ I enjoy turning ideas into real systems that solve problems and improve user exp
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+  </a>
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- PHP
-- Java
-  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java&theme=dark" />
+  </a>
+</p>
+
 ### Database
-- MongoDB
-- MySQL
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  </a>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  </a>
+</p>
 ---
 
 ## 📈 GitHub Stats
