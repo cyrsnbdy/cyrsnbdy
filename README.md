@@ -48,8 +48,23 @@ I enjoy turning ideas into real systems that solve problems and improve user exp
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrsnbdy&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrsnbdy&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyrsnbdy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrsnbdy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cyrsnbdy&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyrsnbdy&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
